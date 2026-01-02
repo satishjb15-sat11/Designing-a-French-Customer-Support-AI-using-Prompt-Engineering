@@ -1,0 +1,2 @@
+# Designing-a-French-Customer-Support-AI-using-Prompt-Engineering
+A prompt engineering project that demonstrates how structured prompts, constraints, and iteration can transform English customer messages into clear, polite, and professional French responses.  This repository focuses on prompt design, tone control, and output consistency without using any traditional programming or machine learning code.
