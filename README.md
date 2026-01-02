@@ -1,4 +1,4 @@
-# French Customer Support AI (Prompt Engineering Project)  
+# French Customer Support AI (Prompt Engineering)  
 
 Prompt‑engineered French AI assistant for professional customer communication.  
 
